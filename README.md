@@ -12,6 +12,8 @@ Run the server on a specified port.
 
     $ lein run -p 8080
 
+See response at `http://localhost:8080/graphql`
+
 ## Options
 
 --port {8080} Port to run the server on.
